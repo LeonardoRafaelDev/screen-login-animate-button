@@ -7,7 +7,7 @@
 
 
 <h1 align="center">
- <img alt="readme" src="https://media.giphy.com/media/iyhYeyWpvnv9o3FRrz/giphy.gif">
+ <img alt="readme" src="https://media.giphy.com/media/W0rueHb5tKdkEzQNpn/giphy.gif">
 </h1>
 ### ⌛ Running the Project
 
